@@ -1,0 +1,32 @@
+User-agent: Wget/1.17.1 (linux-gnu)
+Disallow: /
+User-agent: omgili/0.5 +http://omgili.com
+Disallow: /
+User-agent: MultiCrawl/Nutch-1.14-SNAPSHOT
+Disallow: /
+User-agent: GHOST /Nutch-2.3
+Disallow: /
+User-agent: Python-urllib/2.7
+Disallow: /
+User-agent: python-requests/2.18.1
+Disallow: /
+User-agent: desktop
+Disallow: /
+User-agent: Wget/1.17.1 (linux-gnu)
+Disallow: /
+User-agent: Go-http-client/1.1
+Disallow: /
+User-agent: Googlebot
+Disallow: /
+User-agent: Twitterbot
+Disallow: /
+User-agent: Yandexbot
+Disallow: /
+User-agent: Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html
+Disallow: /
+User-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36
+Disallow: /
+User-agent: CB3ROB-DARKNET-INDEXER/0.1 http://www.cb3rob.org/darknet libwww-perl/6.15
+Disallow: /
+User-agent: Mozilla/5.0 (compatible; MSIE 10.6; Windows NT 6.1; Trident/5.0; InfoPath.2; SLCC1; .NET CLR 3.0.4506.2152; .NET CLR 3.5.30729; .NET CLR 2.0.50727) 3gpp-gba UNTRUSTED/1.0
+Disallow: /
